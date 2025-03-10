@@ -1,8 +1,18 @@
 # Raspberry Pi Team 2 - Nextcloud Setup
 
-## Overview
-This project documents the setup and configuration of Nextcloud on a Raspberry Pi, including user management, shared folder setup, SSH access, and GitHub repository management.
+Project Overview
 
+This project involves setting up a Nextcloud server on a Raspberry Pi 400 for file sharing and collaboration. The goal is to configure users, set up a shared folder, enable external access, and ensure security settings are properly configured.
+
+System Details
+
+Device: Raspberry Pi 400
+
+Operating System: Raspberry Pi OS Lite
+
+IP Address: 192.168.1.118
+
+Hostname: raspberrypi
 ---
 
 ## 1️⃣ Raspberry Pi OS Installation
