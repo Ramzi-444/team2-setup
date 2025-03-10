@@ -197,6 +197,20 @@ Hostname: raspberrypi
 
 ---
 
+Accessing Nextcloud
+
+Open a browser and enter:
+
+https://192.168.1.118
+
+Login with team credentials
+
+Admin: admin
+
+Team accounts: team1, team3, team4, etc.
+
+
+
 ## 🔗 References
 - [Nextcloud Documentation](https://docs.nextcloud.com/)
 - [Apache Configuration](https://httpd.apache.org/docs/2.4/)
