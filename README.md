@@ -190,10 +190,6 @@ Hostname: raspberrypi
 
 ---
 
-## 📌 Future Improvements
-- Implement SSL certificates with **Let's Encrypt** for better security.
-- Set up **fail2ban** to protect against SSH brute-force attacks.
-- Automate **Nextcloud backups** to prevent data loss.
 
 ---
 
